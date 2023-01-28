@@ -3,6 +3,9 @@
     "title": { "string": {} }
   },
   "Spam": {
-      "boolean": {}
+      "int": {
+        "min": 0,
+        "max": 1
+      }
   }
 }
